@@ -1,0 +1,6 @@
+continent,countries,mean_life_expectancy,median_gdp_per_capita,total_population
+Africa,52,54.81,1452.26,929539692
+Americas,25,73.61,8948.1,898871184
+Asia,33,70.73,4471.06,3811953827
+Europe,30,77.65,28054.06,586098529
+Oceania,2,80.72,29810.19,24549947
